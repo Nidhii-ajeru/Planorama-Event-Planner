@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092356491233",
+    "project_id": "planner-72088",
+    "storage_bucket": "planner-72088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092356491233:android:e9bcb510e86243aff1b4a0",
+        "android_client_info": {
+          "package_name": "com.planorama.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxUrzTBnlZDsmuQDWzATn7zzZzbisAmzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
