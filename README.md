@@ -18,6 +18,11 @@ Guest Invitations: Keep track of the guests attendance.✅
 ![image](https://github.com/user-attachments/assets/b6c2926c-11ae-4778-8b3c-9c61f81d4f99)
 ![image](https://github.com/user-attachments/assets/a0858ae2-b431-4f11-be06-d9df56adc4bb)
 ![image](https://github.com/user-attachments/assets/e0d965c2-63cf-4f45-b1d2-c9874cf15528)
+![image](https://github.com/user-attachments/assets/9416bb67-9fb4-4850-834b-5cd6a9551bf2)
+![image](https://github.com/user-attachments/assets/12e6501e-ea3c-4b6d-bc7b-2e024ad9d0b4)
+![image](https://github.com/user-attachments/assets/099fb91c-0372-4989-96e2-81a10bcfd737)
+![image](https://github.com/user-attachments/assets/0f31d456-7ca9-472b-a42a-e2469c2c3a14)
+![image](https://github.com/user-attachments/assets/b6254ca0-c26e-43ec-8659-7ce380e25509)
 
 
 
